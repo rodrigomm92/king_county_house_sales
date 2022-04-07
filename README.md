@@ -1,4 +1,7 @@
 # king_county_house_sales
+
+<img src="images/banner.png" alt="logo" style="zoom:55% ;" />
+
 This is an Insight Project for my portfolio. The main idea is to gather information from data in order to find valuable insights to guide fictitious stakeholders, from a real estate company, in their decision making. The business of this ficticious company is to buy houses for a low price and sell these houses for a higher price. The insights found in this project will promote more accurate choices by the stakeholders, in order to thrive the company business.
 
 # 1.0 - Business Problem
