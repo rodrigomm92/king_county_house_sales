@@ -84,7 +84,19 @@ The development of the solution followed the CRISP-DM/DS methodology, with some 
 - Since the relation between grade and price is almost exponential, it is a good call to invest resources to upgrade the grade to its highest level, in order to sell the house for higher prices, increasing the overall profit.
 - The best strategy is to buy houses at the beginning of the winter (when the average prices are lower) and invest resources to enhance some house aspects (items listed above) in order to sell it on summer/spring. Doing so, it will achieve the **maximum profit**.
 
+After following the steps above, I created a list (<a href="https://github.com/rodrigomm92/king_county_house_sales/blob/main/recommendations.csv">recommendations.csv</a>) with 168 houses that could be bought and sold afterwards. This is the expected result:
+
+|        |                          USD                        |
+| :-------------: | :----------------------------------------------------------: |
+|     **Initial investment**    |       55,087,889        |
+|     **Income**    |       83,282,847        |
+|     **Partial profit**      |                    28,194,958*                    |
+
+*To get the final profit we have to account the money spent to renovate these houses.
+
 # 6.0 - Conclusions
+
+After the kickoff meeting a lot of work was done in order to get valuable information for the business team and stakeholders. Important insights were highlighted, a dashboard was created and a initial list of recommended houses was built. These deliverables will be used in the next sprint, where the teams will decide whether to go deeper into a more refined solution, or use all this intel to make decisions about the business and move on to other projects.
 
 # 7.0 - Next steps
 
