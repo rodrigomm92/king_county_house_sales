@@ -103,6 +103,7 @@ After the kickoff meeting a lot of work was done in order to get valuable inform
 - Gather more information about house sales in other years, in order to get more time based insights, like tendency and seasonality.
 - Gather information about the costs of a house reform, to enhance the house view, construction of bathrooms, house renovation, construction of basement. With this info we can define more strategies to achieve better financial results for the company.
 - Gather information about criminality; distance to groceries stores, markets, drugstores and schools.
+- Use some of the data gathered in the above items to add some metrics to the dashboard (ROI, ROE, NOI, Cap Rate)
 - Investigate multicollinearity between the independent variables.
 - Build a model to predict, based on the available information, the price of any house.
 
