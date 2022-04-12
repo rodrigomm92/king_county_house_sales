@@ -9,7 +9,7 @@ This is an Insight Project for my portfolio. The main idea is to gather informat
 
 After some years of operation, the real state company decided to expand its business to a new operation area: King County - Washington. A kickoff meeting took place with the business team, data team, stakeholders and others. In this meeting one of the most relevant subject was the aspects of buying and selling houses in this new location. After a long debate, some questions were highlighted and the data team must answer these questions until the next meeting. The questions and hypothesis are listed in section 3 of my <a href="https://github.com/rodrigomm92/king_county_house_sales/blob/main/insight_project_kc_houses.ipynb">Jupyter Notebook</a>.
 
-After the ending of the meeting, the CEO itself asked the data team to build a dashboard with useful information to follow the real state market in that area. This dashboard must be accessible from any place and any device. The CEO also required recommendations of houses to buy and to sell. The delivered dashboard can be accessed through this <a href="#">Streamlit Dashboard</a>.
+After the ending of the meeting, the CEO itself asked the data team to build a dashboard with useful information to follow the real state market in that area. This dashboard must be accessible from any place and any device. The CEO also required recommendations of houses to buy and to sell. The delivered dashboard can be accessed through this <a href="https://meu-dash-streamlit-kc-house.herokuapp.com/">Streamlit Dashboard</a>.
 
 The data we are going to use is a public dataset that can be found in this <a href="https://www.kaggle.com/datasets/harlfoxem/housesalesprediction">Kaggle Dataset</a>.
 
